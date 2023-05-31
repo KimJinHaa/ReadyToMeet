@@ -12,5 +12,6 @@ public class ReadytomeetApplication {
 
 		System.out.println("hi");
 		System.out.println("bye");
+		System.out.println("hahaha");
 	}
 }
